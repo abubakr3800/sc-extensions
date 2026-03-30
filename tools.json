@@ -1,1 +1,52 @@
 
+[
+  {
+    "name": "Design System",
+    "url": "https://your-org.github.io/design-system",
+    "description": "Component library, design tokens and brand guidelines",
+    "category": "Design",
+    "emoji": "🎨",
+    "icon": "https://your-org.github.io/assets/icons/design.png",
+    "updated_at": "2025-01-20"
+  },
+  {
+    "name": "Analytics Dashboard",
+    "url": "https://analytics.yourcompany.com",
+    "description": "Real-time KPIs, conversion funnels and business metrics",
+    "category": "Data",
+    "emoji": "📊",
+    "updated_at": "2025-01-18"
+  },
+  {
+    "name": "Dev Portal",
+    "url": "https://your-org.github.io/dev-portal",
+    "description": "API documentation, service registry and architecture diagrams",
+    "category": "Dev",
+    "emoji": "⚙️",
+    "updated_at": "2025-01-22"
+  },
+  {
+    "name": "HR Self-Service",
+    "url": "https://hr.yourcompany.com",
+    "description": "Leave requests, payslips and team directory",
+    "category": "HR",
+    "emoji": "👥",
+    "updated_at": "2024-12-15"
+  },
+  {
+    "name": "Status Page",
+    "url": "https://status.yourcompany.com",
+    "description": "Live infrastructure health, uptime and incident history",
+    "category": "Ops",
+    "emoji": "🖥️",
+    "updated_at": "2025-01-21"
+  },
+  {
+    "name": "Roadmap",
+    "url": "https://your-org.github.io/roadmap",
+    "description": "Product roadmap, quarterly goals and feature backlog",
+    "category": "Ops",
+    "emoji": "📋",
+    "updated_at": "2025-01-19"
+  }
+]
