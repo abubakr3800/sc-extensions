@@ -2,33 +2,37 @@
   {
     "name": "eSC-AI",
     "url": "https://shortcircuit.company/eSCai/",
-    "description": "AI-powered environmental sound classification for real-time control.",
-    "category": "AI / Automation",
+    "description": "AI-powered environmental sound classification for real-time control",
+    "category": "AI",
     "emoji": "🤖",
-    "icon": "https://shortcircuit.company/LedEXPO/eSC-AI%20logo.svg"
+    "icon": "https://shortcircuit.company/LedEXPO/eSC-AI%20logo.svg",
+    "updated_at": "2025-01-20"
   },
   {
     "name": "SChools",
     "url": "https://shortcircuit.company/SChools/",
-    "description": "Simulate classroom lighting for different educational levels.",
+    "description": "Simulate classroom lighting for different educational levels",
     "category": "Simulation",
     "emoji": "🏫",
-    "icon": "https://shortcircuit.company/LedEXPO/SChools.svg"
+    "icon": "https://shortcircuit.company/LedEXPO/SChools.svg",
+    "updated_at": "2025-01-18"
   },
   {
     "name": "Zoo Simulator",
     "url": "https://shortcircuit.company/zoo/",
-    "description": "Experiment with lighting settings and see their impact on animals.",
+    "description": "Experiment with lighting settings and see their impact on animals",
     "category": "Simulation",
     "emoji": "🦁",
-    "icon": "https://shortcircuit.company/LedEXPO/zoo.svg"
+    "icon": "https://shortcircuit.company/LedEXPO/zoo.svg",
+    "updated_at": "2025-01-22"
   },
   {
     "name": "LuxSCaleAI",
     "url": "https://shortcircuit.company/LuxSCaleAI/",
-    "description": "AI-driven lighting design tool with simulation & BOQ results.",
-    "category": "AI / Lighting",
+    "description": "AI-driven lighting design tool with simulation and BOQ results",
+    "category": "AI",
     "emoji": "💡",
-    "icon": "https://shortcircuit.company/LedEXPO/LuxSCale.svg"
+    "icon": "https://shortcircuit.company/LedEXPO/LuxSCale.svg",
+    "updated_at": "2025-01-21"
   }
 ]
