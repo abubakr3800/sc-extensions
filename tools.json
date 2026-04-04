@@ -34,5 +34,14 @@
     "emoji": "💡",
     "icon": "https://shortcircuit.company/LedEXPO/LuxSCale.svg",
     "updated_at": "2025-01-21"
+  },
+  {
+    "name": "creSCent",
+    "url": "https://shortcircuit.company/creSCent/",
+    "description": "Creative presentation creating tool for shortcircuit members",
+    "category": "AI",
+    "emoji": "💡",
+    "icon": "https://shortcircuit.company/creSCent/asset/img/creSCent.svg",
+    "updated_at": "2025-01-21"
   }
 ]
