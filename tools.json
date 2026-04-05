@@ -18,16 +18,7 @@
     "updated_at": "2025-01-18"
   },
   {
-    "name": "Zoo Simulator",
-    "url": "https://shortcircuit.company/zoo/",
-    "description": "Experiment with lighting settings and see their impact on animals",
-    "category": "Simulation",
-    "emoji": "🦁",
-    "icon": "https://shortcircuit.company/LedEXPO/zoo.svg",
-    "updated_at": "2025-01-22"
-  },
-  {
-    "name": "LuxSCaleAI",
+    "name": "LuxSCale",
     "url": "https://shortcircuit.company/LuxSCaleAI/",
     "description": "AI-driven lighting design tool with simulation and BOQ results",
     "category": "AI",
